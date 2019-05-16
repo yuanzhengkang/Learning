@@ -1,0 +1,2 @@
+采用数据劫持结合订阅者发布者模式 通过object.defineproperty()来劫持各个属性的setter getter  在数据变动时发送消息给订阅者
+触发相应监听回调

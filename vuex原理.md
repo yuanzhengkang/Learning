@@ -1,0 +1,4 @@
+vuex是vue提供的一种状态管理机制
+actions执行异步操作 如调用后台api然后dispatch actions方法 再commit mutations再对state进行修改
+mutation执行的是同步操作 可以直接改变state
+state作为状态 改变后会直接作用到view上

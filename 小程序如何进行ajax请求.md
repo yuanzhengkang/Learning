@@ -1,0 +1,1 @@
+小程序中可以直接使用微信提供的wx.request来进行ajax请求  soeasy

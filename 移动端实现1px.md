@@ -1,0 +1,2 @@
+伪类配合transform使用 
+使用before或者after设置边框然后使用transform的scale 0.5实现1px  需要原元素相对定位  border绝对定位
